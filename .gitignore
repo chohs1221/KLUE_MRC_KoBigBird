@@ -4,4 +4,3 @@ wandb
 .ipynb_checkpoints
 .git
 submissions
-levenshtein_KLUE.ipynb
